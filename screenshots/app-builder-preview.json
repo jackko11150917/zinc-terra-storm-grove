@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "鐵階 IRON RANK",
+      "hasCanvas": false,
+      "bodyTextLen": 95,
+      "bodyTextHash": "f6b7d5501a981c688101948efa33453bdec0e6252b590765c7687be1b0382d7a",
+      "bodyTextPrefix": "IRON RANK 鐵階 每次訓練換經驗、升等級。動作有指導，重量有段位。 稱呼 性別（影響段位標準） 男性 女性 體重（kg）",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "鐵階 IRON RANK",
+      "hasCanvas": false,
+      "bodyTextLen": 95,
+      "bodyTextHash": "f6b7d5501a981c688101948efa33453bdec0e6252b590765c7687be1b0382d7a",
+      "bodyTextPrefix": "IRON RANK 鐵階 每次訓練換經驗、升等級。動作有指導，重量有段位。 稱呼 性別（影響段位標準） 男性 女性 體重（kg）",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
